@@ -1,6 +1,6 @@
 {
-    "name": "Budget Trackers App",
-    "short_name": "Budget App",
+    "name": "Online/Offline Budget Trackers App",
+    "short_name": "Budget Trackers App",
     "icons": [
         {
             "src": "public/icons/icon-192x192.png",
