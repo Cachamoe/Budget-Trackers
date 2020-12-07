@@ -1,7 +1,7 @@
 # Budget-Trackers
 ![]()
 ## Overview
-This is 
+This is an application that allows users to track their budgets online or offline!
 
 Here is a link to the deployed webpage: []
 
@@ -15,11 +15,12 @@ THEN that will be shown on the page, and added to their transaction history when
 ```
 
 ## Application Features
-1) 
-2)
+1) Ability to imput transaction names and amounts
+2) Ability to add or subtract those transaction amounts
+3) Works online or offline
 
 ## Programs 
-
+HTML, CSS, Javascript
 
 ## License 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
