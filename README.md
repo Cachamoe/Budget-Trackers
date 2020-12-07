@@ -20,7 +20,7 @@ THEN that will be shown on the page, and added to their transaction history when
 3) Works online or offline
 
 ## Programs 
-HTML, CSS, Javascript, MongoDB, Mongoose, Node.js, Express.js, Bootstrap, JSON
+HTML, CSS, Javascript, Node.js, Express.js, MongoDB, Mongoose, Bootstrap, JSON
 
 ## License 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
