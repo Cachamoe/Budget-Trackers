@@ -1,7 +1,7 @@
 # Online/Offline Budget Trackers
 ![](https://github.com/Cachamoe/Online-Offline-Budget-Trackers/blob/main/public/Screen%20Shot%202020-12-06%20at%206.42.34%20PM.png)
 ## Overview
-This is an application that allows users to track their budgets online or offline!
+This is an application that allows users to track their budgets whether they are online or offline!
 
 Here is a link to the deployed webpage: [https://serene-sands-01673.herokuapp.com/]
 
