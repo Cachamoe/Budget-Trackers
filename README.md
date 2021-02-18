@@ -19,7 +19,7 @@ THEN that will be shown on the page, and added to their transaction history when
 2) Ability to add or subtract those transaction amounts
 3) Works online or offline
 
-## Programs 
+## Technologies 
 HTML, CSS, Javascript, Node.js, Express.js, MongoDB, Mongoose, Bootstrap, JSON
 
 ## License 
